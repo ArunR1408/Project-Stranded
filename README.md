@@ -80,5 +80,3 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 Arun R
-
-PS: This is my first structured Java project.
